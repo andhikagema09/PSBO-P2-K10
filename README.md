@@ -66,7 +66,8 @@ Alasan kami menggunakan waterfall method adalah karena memiliki tahapan yang lin
 ![erd](https://user-images.githubusercontent.com/48718969/122077122-a870ab00-ce25-11eb-9476-07c8f5ecca91.png)
 
 #### Class Diagram
-![classsdiagram](![class diagram-Page-1](https://user-images.githubusercontent.com/48622568/123520269-23657b80-d6da-11eb-836e-205a7f73a485.jpg))
+![classdiagrammmmmm](https://user-images.githubusercontent.com/60166802/123520330-645d9000-d6da-11eb-9e01-58cbc48c742a.png)
+
 
 #### Arsitektur Sistem
 <h1 align="left"><img src="SystemArchitecture.png"></h1>
